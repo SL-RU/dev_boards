@@ -1,0 +1,1 @@
+This board is for almost any STM32Fxxx MCU with lqfp64 package. Exactly for: STM32F103RCT6
